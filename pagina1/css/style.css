@@ -40,7 +40,7 @@ body {
 
 .logo {
     height: 64px;
-    animation-name: logo;
+    animation-name: logoFade;
     animation-duration: 2s;
     animation-timing-function: ease-out;
 }
